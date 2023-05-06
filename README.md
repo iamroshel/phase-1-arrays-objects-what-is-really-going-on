@@ -1,4 +1,4 @@
-# Arrays and Objects - What is Really Going On?
+# Arrays and Objects - What is Really Going On? c
 
 ## Learning Goals
 
